@@ -6,3 +6,4 @@ This repo represents implimentation of YOLOv5 and DeepSort in Pytorch for object
 ![Demo](img.gif)
 
 
+- Ruturaj Chavan
